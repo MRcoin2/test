@@ -23,7 +23,9 @@ class Example:
     def print_age(self):
         """
         print the age of the class
-        :return:
+
+        Note:
+            This function is not very useful
         """
         print(self.age)
 
