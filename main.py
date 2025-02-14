@@ -21,6 +21,10 @@ class Example:
         print(self.name)
 
     def print_age(self):
+        """
+        print the age of the class
+        :return:
+        """
         print(self.age)
 
     def print_age_n_times(self, n: int):
